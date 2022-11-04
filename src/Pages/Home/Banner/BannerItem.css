@@ -1,4 +1,4 @@
-.carousel-img:after {
+.carousel-img::before {
     content:'';
     position:absolute;
     left:0; 
